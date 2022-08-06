@@ -1,0 +1,18 @@
+def CurrentTimestamp():
+	formatDateTime(utcnow(),dd-MM-yyyy)
+
+
+def DateFromDaysSince2(days):
+	adddays(utcnow(),days)
+
+MinutesFromTime 
+def MinutesFromTime():
+	formatDateTime(utcnow(),mm)
+	
+
+def BitAnd(intA, intB):
+	and(intA, intB)
+	
+BitCompress
+def BitCompress(str):
+	binary('str')
